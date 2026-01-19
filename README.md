@@ -20,11 +20,9 @@ The pipeline closely resembles **real-world DevOps workflows** used in productio
 
 ---
 
-## Screenshots
-
 The following screenshot demonstrates a **successful end-to-end pipeline execution**:
 
-/screenshots/output.png
+![Pipeline Output](output.png)
 
 ## Tech Stack
 
